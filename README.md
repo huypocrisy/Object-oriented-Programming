@@ -1,16 +1,20 @@
 Lập trình hướng đối tượng (OOP - Object Oriented Programming) là một phương pháp lập trình được sử dụng rộng rãi, trong đó bạn tập trung vào các "đối tượng" để thực hiện các công việc.
 
+Khởi động trước khi tìm hiểu
+
 Trong Python, đối tượng là một thực thể mà bạn có thể áp dụng các hành động (phương thức) và lưu trữ dữ liệu (thuộc tính). Đối tượng được tạo từ một "lớp" (class), có thể coi như là một khuôn mẫu, mô tả các hành động và dữ liệu mà đối tượng của nó có thể làm.
 
 Để minh họa cho OOP, hãy tưởng tượng một lớp tên là "Dog". "Dog" ở đây là một lớp.
 
 class Dog:
     def __init__(self, name, age):
+    
         self.name = name
         self.age = age
 
     def bark(self):
         print("Woof!")
+
 Trong đó:
 
 __init__ là một phương thức đặc biệt được gọi là "hàm khởi tạo" dùng để khởi tạo đối tượng. Khi bạn tạo một đối tượng mới từ lớp, Python sẽ tự động gọi phương thức này.
