@@ -29,6 +29,10 @@ my_dog = Dog("Fido", 3)
 print(my_dog.name) # In ra: Fido
 print(my_dog.age)  # In ra: 3
 my_dog.bark()      # In ra: Woof!
+Tham khảo thêm
+
+![Sơ đồ hình dung OOP](https://pynative.com/wp-content/uploads/2021/08/class_and_objects.jpg)
+
 Trên đây là một ví dụ đơn giản về lập trình hướng đối tượng trong Python. Có rất nhiều khái niệm phức tạp hơn như tính kế thừa, đa hình, đóng gói, v.v., nhưng hy vọng rằng ví dụ trên đã giúp bạn hiểu cơ bản về cách lập trình hướng đối tượng hoạt động trong Python.
 Trong Python, Danh sách (List), Tuple, Từ điển (Dictionary) và các lớp tùy chỉnh (đối tượng) đều là các loại cấu trúc dữ liệu quan trọng. Dưới đây là mối liên hệ giữa chúng:
 
