@@ -29,7 +29,7 @@ my_dog = Dog("Fido", 3)
 print(my_dog.name) # In ra: Fido
 print(my_dog.age)  # In ra: 3
 my_dog.bark()      # In ra: Woof!
-Tham khảo thêm
+  \\Tham khảo thêm
 
 ![Sơ đồ hình dung OOP](https://pynative.com/wp-content/uploads/2021/08/class_and_objects.jpg)
 
